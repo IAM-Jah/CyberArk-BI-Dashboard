@@ -1,0 +1,23 @@
+{
+    "apiBaseUrl": "https://tenant.privilegecloud.cyberark.cloud/PasswordVault/API",
+    "identityTenantUrl": "https://abc1234.id.cyberark.cloud",
+    "ccpBaseUrl": "https://cyberark-ccp.company.com",
+    "safeName": "safeName",
+    "objectName": "CyberArkApiPasswordName",
+    "appId": "CyberArkAppID",
+    "username": "username@cyberark.cloud.12345",
+    "password": "password",
+    "authType": "cyberark",
+    "concurrentSession": "true",
+    "outputFolderPath": "C:\\Data",
+    "s3BucketName": "S3BucketName",
+    "logDirectory": "C:\\CyberArkLogs\\",
+    "awsCliPath": "aws",
+    "awsProfile": "profile-name",
+    "awsRegion": "us-east-1",
+    "awsSecretName": "secretName",
+    "awsAccessKeyId": "AKIA.....77T",
+    "awsSecretAccessKey": "GZx..................gwO2",
+    "remoteServer": "remoteServerNameOrIP",
+    "remoteShare": "shareName"
+}

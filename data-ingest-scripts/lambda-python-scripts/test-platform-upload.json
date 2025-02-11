@@ -1,0 +1,14 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "S3BucketName"
+          },
+          "object": {
+            "key": "platforms.json"
+          }
+        }
+      }
+    ]
+  }
