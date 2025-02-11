@@ -4,6 +4,8 @@ Welcome to Project CABI, the CyberArk Business Intelligence with Amazon QuickSig
 
 Whether you're managing on-premises or cloud-based PAM environments, this project demonstrates the use of modern cloud technologies to address key business needs around compliance, access control, and security analytics.  
 
+![Account Compliance BI Visualization](/assets/accountComplianceVisualization.png)
+
 ## 📋 Project Overview
 
 Project CABI is an automated and scalable Proof of Concept (PoC) designed to provide real-time visibility into PAM data. It automates the ingestion of PAM data from CyberArk APIs and logs, normalizes and stores it in a managed AWS RDS database, and delivers customizable KPIs and reports through Amazon QuickSight dashboards. This solution was built to solve critical pain points faced by organizations managing large-scale CyberArk deployments, such as:
